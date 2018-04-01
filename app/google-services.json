@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "427641402932",
+    "firebase_url": "https://tasyafauzia1202154307modul6.firebaseio.com",
+    "project_id": "tasyafauzia1202154307modul6",
+    "storage_bucket": "tasyafauzia1202154307modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427641402932:android:71febd69780ee9a0",
+        "android_client_info": {
+          "package_name": "com.tasyafauzia.android.tasyafauzia_1202154307_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427641402932-4prgb3b89k0iqmd7bi4msh1o8u4mlgn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tasyafauzia.android.tasyafauzia_1202154307_modul6",
+            "certificate_hash": "4e856b0d2fe0fe68457c23fbfe0fd91ffc889da9"
+          }
+        },
+        {
+          "client_id": "427641402932-0jfqg7h44rliivb50pan620eiv74et40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosFSFkzRf6aVhe9SwKJMlTBR0AtazZds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427641402932-0jfqg7h44rliivb50pan620eiv74et40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
