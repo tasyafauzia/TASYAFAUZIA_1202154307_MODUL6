@@ -17,9 +17,6 @@ import com.tasyafauzia.android.tasyafauzia_1202154307_modul6.Model.Post;
 
 import java.util.ArrayList;
 
-/**
- * Created by vanard on 01/04/18.
- */
 
 public class PostAdapter extends RecyclerView.Adapter<PostAdapter.ViewHolder> {
 
